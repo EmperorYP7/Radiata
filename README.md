@@ -1,7 +1,7 @@
 # Radiata
 
 This is the implementation of OpenGL mechanics and particulars focusing on parsing shaders on to buffers and rendering geometric objects
-as well as loading and rendering some .png/.jpg textures on to the GPU.
+as well as loading and rendering some .png/.jpg textures on to the GPU with ease.
 
 This is a code along of the OpenGL series of TheCherno.
 
